@@ -1,0 +1,20 @@
+name: iq_weather_ui
+description: UI Toolkit for the IQ Weather Flutter Application
+version: 1.0.0
+publish_to: none 
+
+environment:
+  sdk: ^3.5.4
+  flutter: ^3.24.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  gap: ^3.0.1
+
+dev_dependencies:
+  coverage: ^1.11.0
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.4
+  very_good_analysis: ^6.0.0

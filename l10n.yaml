@@ -1,0 +1,8 @@
+arb-dir: lib/l10n/arb
+output-dir: lib/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
+nullable-getter: false
+synthetic-package: false
+header: "// ignore_for_file: always_use_package_imports, noop_primitive_operations, lines_longer_than_80_chars, use_super_parameters, avoid_escaping_inner_quotes, unused_local_variable, omit_local_variable_types, no_leading_underscores_for_local_identifiers, prefer_final_locals, unnecessary_string_interpolations, require_trailing_commas, unnecessary_string_escapes"
+format: true

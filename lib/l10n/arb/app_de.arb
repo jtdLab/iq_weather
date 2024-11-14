@@ -1,0 +1,11 @@
+{
+    "@@locale": "de",
+    "weatherAppBarTitle": "Wetter",
+    "weatherDetailsAppBarTitle": "Wetter Details",
+    "weatherDetailsItemDistanceToWeatherStationTitle": "Entfernung zur Station",
+    "weatherDetailsItemHumidityTitle": "Luftfeuchtigkeit",
+    "weatherDetailsItemPrecipitationTitle": "Niederschlag (letzte 10 Minuten)",
+    "weatherLocationTextLocal": "Mein Standort",
+    "weatherLocationTextIqbOffice": "IO Buddy Büro",
+    "weatherLocationTextBuergerParkSaarbruecken": "Bürger Park"
+}
